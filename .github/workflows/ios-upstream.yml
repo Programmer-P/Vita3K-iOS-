@@ -1,3 +1,4 @@
+# PlayPulsive CI: re-register inherited upstream-core workflow on personal fork.
 name: Build upstream-core iOS IPA
 
 on:
